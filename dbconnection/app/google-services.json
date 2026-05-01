@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338622651092",
+    "project_id": "dbconnection-9ba88",
+    "storage_bucket": "dbconnection-9ba88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338622651092:android:cb23698ed99a6324dcf941",
+        "android_client_info": {
+          "package_name": "com.omkar.dbconnection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmwN2qK8jPtoYCKVQyVr-biM3UYL86oAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
